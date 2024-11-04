@@ -1,0 +1,1 @@
+La aplicación intenta construir un sitio utilizando los patrones de Modelo, vista y controlador, que buenos resultados han dado, posteriormente, se intentará crear una biblioteca para complementar los requerimientos de los diversos sitios
