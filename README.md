@@ -1,1 +1,3 @@
-La aplicación intenta construir un sitio utilizando los patrones de Modelo, vista y controlador, que buenos resultados han dado, posteriormente, se intentará crear una biblioteca para complementar los requerimientos de los diversos sitios
+La aplicación intenta construir un sitio utilizando los patrones de Modelo, vista y controlador, que buenos resultados han dado, posteriormente, se intentará crear una biblioteca para complementar los requerimientos de los diversos sitios, la aplicación debe ser instalada en la raíz de su sitio, hay varios archivos htacces, uno en la parte inicial del sitio que redirige las peticiones a la carpeta publica, que es donde inicia la aplicación
+El segundo se encuentra en la carpeta app prohibiendo el acceso a los archivos que hay aquí.
+En ésta misma se encuentra nuestro archivo escuchador bootstrap.
